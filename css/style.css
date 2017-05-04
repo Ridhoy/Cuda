@@ -1,0 +1,156 @@
+/*Custom Style here*/
+.header_bg{
+    background-color: #87509c;
+    padding-top: 55px;
+}
+.header_title{
+    color: #f7f3ea;
+    text-align: center;
+    padding-top: 120px;
+}
+.nav_border{
+    border: none;
+    padding-top: 0px;
+}
+.naav ul li a{
+    color: #ffffff !important;
+    font-size: 13px;
+}
+.naav ul li:hover{
+    background-color: #643a79;
+}
+.button{
+    padding-top: 40px;
+    padding-bottom: 170px;
+}
+.bttn_cap{
+    padding: 11px;
+    width: 40%;
+    background-color: #eb7d4b;
+    border: none;
+}
+.ser_bg{
+    background-color: #17c2a4;
+    padding-top: 100px; 
+}
+.ser_title{
+    margin: 0 auto;
+    width: 30%;
+    text-align: center;
+    color: white;
+}
+.line{
+    border-bottom: 2px solid #14a58c;
+    width: 14%;
+    margin: 15px auto;
+}
+.left{
+padding-bottom: 150px;
+}
+.ser_item_title{
+    text-align: center;
+    padding-top: 65px;
+    padding-bottom: 170px;
+}
+.ser_item_title h1{
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+.ser_item_title p{
+    font-size: 17px;
+    color: white;
+    font-weight: 100;
+}
+
+.crayon{
+    height: 125px;
+}
+.rocket{
+    height: 126px;
+}
+
+.mid{
+    margin: 0 auto !important;
+    
+}
+
+.team_bg{
+    background-color: #e7f1f8;
+    padding-top: 100px; 
+}
+
+.team_title{
+    margin: 0 auto;
+    width: 30%;
+    text-align: center;
+    color: #3c4761;
+}
+.team_title h1{
+    font-size: 30px;
+}
+
+.team_item_title{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 170px;
+}
+.team_item_title h1{
+    font-size: 20px;
+    color: #3c4761;
+    font-weight: bold;
+}
+.team_item_title p{
+    font-size: 17px;
+    color:  #3c4761;
+    font-weight: 100;
+    padding-top: 20px;
+}
+.team_item_title span{
+    color: #30bae7;
+    
+}
+.line2{
+    border-bottom: 2px solid #c8d9e5;
+    width: 14%;
+    margin: 15px auto;
+}
+body {
+  overflow-x: hidden;
+}
+.hidden-thing {
+  position: absolute;
+  left: 100%;
+  width: 50px;
+  height: 50px;
+  opacity: 0;
+}
+.team_social ul{
+    list-style: none;
+    
+}
+.team_social ul li{
+    float: left;
+    padding-left: 10px;
+}
+.team_social ul li i{
+    color: white;
+    background-color: #bdd1df;
+    border-radius: 100px;
+    font-size: 18px;
+    padding: 8px;
+    
+    width: 34px;
+}
+.skill_bg{
+    background-color: white;
+    padding-top: 100px; 
+}
+.skill_title{
+    margin: 0 auto;
+    width: 30%;
+    text-align: center;
+    color: #3c4761;
+    padding-bottom: 20px;
+}
+
